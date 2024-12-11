@@ -1,0 +1,22 @@
+{
+  "id": "potion-crafting-system",
+  "title": "Potion Crafting System",
+  "description": "A simple module to add potion crafting functionality.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "reaper"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "esmodules": ["scripts/main.js"],
+  "scripts": [],
+  "styles": ["styles/style.css"],
+  "manifest": "https://your-url.com/module.json",
+  "download": "https://your-url.com/potion-crafting-system.zip",
+  "license": "MIT",
+  "readme": "README.md"
+}
